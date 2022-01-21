@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+
+- 🌱 I’m currently learning everything on Java, K8s, Go, Javascript and more.
+- 📫 How to reach me: 
+- https://plweb.se/
+- https://www.linkedin.com/in/peterlindblom/ 
 
 <!--
 **plwebse/plwebse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
