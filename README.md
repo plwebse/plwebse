@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 
-- 🌱 I’m currently learning everything on Java, Kubernetes, Go, Javascript and more.
+- 🌱 I’m currently learning everything on Java, Kubernetes, Rust, Go, Javascript, Linux and more.
 - 📫 How to reach me: 
 - https://plweb.se/
 - https://www.linkedin.com/in/peterlindblom/ 
